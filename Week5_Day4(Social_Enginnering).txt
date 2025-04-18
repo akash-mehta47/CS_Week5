@@ -1,10 +1,15 @@
 Real-World Social Engineering Case Study: Twitter Bitcoin Scam (2020)
 
-In July 2020, Twitter became the target of a high-profile social engineering attack that compromised some of the platform's most influential accounts. This attack is now widely referred to as the "Twitter Bitcoin Scam."
+In July 2020, Twitter became the target of a high-profile social engineering attack that compromised some of the platform's most influential accounts. 
+This attack is now widely referred to as the "Twitter Bitcoin Scam."
 
-The attackers used a phone spear-phishing technique to impersonate Twitter IT staff and contacted a number of employees. Through social engineering, they tricked these employees into revealing login credentials for Twitter's internal systems. Once the attackers had access, they were able to take control of various high-profile Twitter accounts, including those belonging to Elon Musk, Bill Gates, Barack Obama, Apple, and others.
+The attackers used a phone spear-phishing technique to impersonate Twitter IT staff and contacted a number of employees. 
+Through social engineering, they tricked these employees into revealing login credentials for Twitter's internal systems. 
+Once the attackers had access, they were able to take control of various high-profile Twitter accounts, including those belonging to Elon Musk, Bill Gates, Barack Obama, Apple, and others.
 
-Using these compromised accounts, the attackers tweeted a message promising to double any Bitcoin sent to a specific wallet address. The message claimed the offer was for a limited time, creating a sense of urgency and increasing the likelihood that users would fall for the scam. In total, the hackers collected over $100,000 in Bitcoin from unsuspecting victims.
+Using these compromised accounts, the attackers tweeted a message promising to double any Bitcoin sent to a specific wallet address. 
+The message claimed the offer was for a limited time, creating a sense of urgency and increasing the likelihood that users would fall for the scam. 
+In total, the hackers collected over $100,000 in Bitcoin from unsuspecting victims.
 
 The breach exposed significant weaknesses in internal security and employee training. It also raised concerns about the security of social media platforms and the potential for widespread misinformation campaigns.
 
